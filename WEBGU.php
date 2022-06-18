@@ -5,21 +5,47 @@
     <meta charset="UTF-8">
     <title>WEBGU</title>
     <link rel="stylesheet" href="WEBGU.css">
-    <link rel="stylesheet" href="fontawesome/css/all.css">
+
 </head>
 <body>
   <div class="container">
       
       <!-- เพิ่มข้อมูลทุกอย่างลงใน สกรีน -->
     <div class="screen">
-        <div class="NIXX">
+      
+        <div>
+             <img src="Apple.png" alt=""
+              style="position: relative;
+                        width: 95px;
+                        height: 95px;
+                        left: 217px;
+                        top: 9px;">
+        </div>
+         <div class="NIXX">
          NIXX   
         </div>
-        <form action="" class="login">
-            <div class="login_feeld">
-                <input type="text" placeholder="User">
-            </div>
-        </form>
+       
+        <div class="iconic">
+            <img src="discord1.png" alt="" 
+            style="position: absolute;
+                        width: 30px;
+                        height: 30px;
+                        left: 200px;
+                        top: 110px;   ">
+            <img src="facebook.png" alt=""
+            style="position: absolute;
+                        width: 30px;
+                        height: 30px;
+                        left: 140px;
+                        top: 110px;   ">
+            <img src="twitter.png" alt=""
+            style="position: absolute;
+                        width: 30px;
+                        height: 30px;
+                        left: 250px;
+                        top: 110px;   ">
+        </div>
+       
     </div>
   </div>  
 </body>
